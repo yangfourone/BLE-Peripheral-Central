@@ -190,6 +190,5 @@ class ViewController: NSViewController, CBPeripheralManagerDelegate {
         peripheral.respond(to: request, withResult: .success)
     }
     
-    // hello
 }
 
